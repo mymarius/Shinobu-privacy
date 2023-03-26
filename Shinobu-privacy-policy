@@ -1,8 +1,10 @@
-
-
-Shinobu does not store any data by default. If a server member with Server Administration permission uses the prefix command to change October's prefix,
-the server's automatically generated Discord ID (for example, 936977814421405727) will be stored in the bot's database along with the provided prefix.
-These are valid within the adjustable commands.The reason for this data storage is to ensure that the bot continues smoothly when the bot is turned off and turned on.
-No other data about the server is stored. Shinobu never stores user-specific data. Prefix data is stored only for the operation of the bot and is not shared with anyone else or used for any other reason. The data is stored on paid Virtual Private Servers.
-You can also contact me via my discord Mârius#2998 (1030495490963411045) to request the deletion of data, or you can come to the support server and open a request and specify this. The data is stored for less than 30 days. The data is protected on a private virtual server.
-
+Shinobu does not store any data by default. A server member with Server Management permission can use the prefix to change the bot's prefix October
+if he uses the command, the server's automatically generated Discord ID (for example, 936977814421405727) will be sent to the bot with the prefix provided
+it will be stored in the database.These are valid within the adjustable commands.The reason for this data storage is that when the bot is turned off and turned on, the bot has no problems
+it's to keep him going.
+No other data about the server is stored. Shinobu never stores user-specific data. Prefix data is stored only for the operation of the bot, and
+it is not shared with anyone else or used for any other reason. The data is stored on paid Virtual Private Servers.
+You can also contact me at Mârius#2998 (1030495490963411045) discord to request deletion of the data or to the support server
+you can come and open a request and specify this.
+The data is stored for less than 30 days. The data is protected on a private virtual server.
+The User
