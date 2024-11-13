@@ -1,16 +1,242 @@
-Data Storage and Privacy Policy for Shinobu
-Shinobu is committed to ensuring the privacy and security of your server's data. By default, Shinobu does not store any user-specific data. However, to ensure smooth operation, the following data may be stored temporarily:
+# Shinobu Bot Corporate Privacy Policy and Data Protection Guidelines
 
-Prefix Management: A server member with Server Management permissions can change the bot's prefix using a specific command. Upon doing so, the server's automatically generated Discord ID (e.g., 936977814421405727) will be sent to the bot along with the new prefix. This data is necessary for the bot's functionality and is stored in a secure database.
+## Table of Contents
+1. [Legal Framework and Scope](#1-legal-framework-and-scope)
+2. [Definitions and Abbreviations](#2-definitions-and-abbreviations)
+3. [Data Processing Principles](#3-data-processing-principles)
+4. [Data Categories and Processing Purposes](#4-data-categories-and-processing-purposes)
+5. [Technical and Administrative Security Measures](#5-technical-and-administrative-security-measures)
+6. [Data Retention and Disposal Policy](#6-data-retention-and-disposal-policy)
+7. [User Rights and Request Management](#7-user-rights-and-request-management)
+8. [Corporate Governance and Responsibility](#8-corporate-governance-and-responsibility)
+9. [Compliance and Auditing](#9-compliance-and-auditing)
+10. [Communication and Support Mechanisms](#10-communication-and-support-mechanisms)
 
-Data Usage: The prefix data is stored solely for operational purposes, allowing Shinobu to maintain its settings even when the bot is restarted. No other server-specific information is collected or retained.
+## 1. Legal Framework and Scope
 
-User Privacy: Shinobu never stores user-specific data, ensuring that your privacy is protected. The prefix information is not shared with any third parties and is not used for any purposes beyond the operation of the bot.
+### 1.1. Legal Framework
+This Privacy Policy and Data Protection Guidelines have been prepared in accordance with:
+- California Consumer Privacy Act (CCPA)
+- California Privacy Rights Act (CPRA)
+- General Data Protection Regulation (GDPR)
+- Children's Online Privacy Protection Act (COPPA)
+- Federal Trade Commission Act
+- State Privacy Laws including Virginia CDPA, Colorado CPA
+- Discord Platform Terms of Service and Policies
+- Applicable Federal and State Data Protection Laws
 
-Data Security: The stored data is housed on paid Virtual Private Servers (VPS), providing robust security measures to protect your information.
+### 1.2. Scope and Purpose
+This policy establishes the procedures and principles governing data processing activities performed by Shinobu Bot ("Service Provider") through the Discord platform.
 
-Data Retention: Any stored data is retained for a maximum of 30 days. After this period, the data is automatically deleted to further safeguard your privacy.
+## 2. Definitions and Abbreviations
 
-Data Deletion Requests: If you wish to request the deletion of your data, please contact me at mymarius (Discord ID: 1030495490963411045) or visit our support server to open a request.
+### 2.1. Key Definitions
+- **Bot**: Automated software application operating on the Discord platform
+- **Personal Information**: Information that identifies, relates to, or could reasonably be linked to a particular individual
+- **Data Controller**: Legal representative of Shinobu Bot
+- **Server Owner**: User with legal administrative authority over a Discord server
+- **API**: Application Programming Interface
+- **VPS**: Virtual Private Server
 
-Thank you for trusting Shinobu! We are dedicated to maintaining a secure and respectful environment for all users.
+### 2.2. Technical Definitions
+- **Prefix**: Special character sequence used to trigger bot commands
+- **Server ID**: Unique identifier assigned by Discord platform
+- **Token**: Bot authentication key
+- **Endpoint**: API access point
+
+## 3. Data Processing Principles
+
+### 3.1. Core Principles
+1. Lawfulness, fairness, and transparency
+2. Purpose limitation
+3. Data minimization
+4. Accuracy
+5. Storage limitation
+6. Integrity and confidentiality
+7. Accountability
+
+### 3.2. Data Minimization Strategy
+- Collection of only necessary minimum data
+- No collection of non-critical functionality data
+- Real-time processing of temporary data without storage
+- Automatic disposal of data that has fulfilled its purpose
+
+## 4. Data Categories and Processing Purposes
+
+### 4.1. Data Categories Processed
+
+#### 4.1.1. Required Data
+- Server Identification Number (ID)
+- Customized Command Prefix
+- Server Configuration Preferences
+
+#### 4.1.2. Data Not Processed
+- User Message Content
+- Voice Data
+- IP Addresses
+- Location Information
+- Personal Identifiers
+- Financial Data
+- Biometric Data
+- Special Categories of Personal Data
+
+### 4.2. Processing Purposes
+1. Service Quality Assurance
+   - Maintenance of bot functions
+   - User experience optimization
+   - Technical issue resolution
+
+2. System Administration
+   - Performance monitoring
+   - Security threat detection
+   - Debugging and correction
+
+3. Legal Obligations
+   - Compliance with legal requirements
+   - Response to official requests
+   - Protection of legal rights
+
+## 5. Technical and Administrative Security Measures
+
+### 5.1. Infrastructure Security
+
+#### 5.1.1. Server Security
+- High-security VPS infrastructure
+- Multi-layered firewall system
+- DDoS protection mechanisms
+- Automated backup systems
+- Disaster recovery protocols
+
+#### 5.1.2. Network Security
+- SSL/TLS encryption protocols
+- Secure data transmission channels
+- IPS/IDS systems
+- Network segmentation
+- Regular security scans
+
+### 5.2. Data Security
+
+#### 5.2.1. Database Security
+- AES-256 encryption standard
+- Encrypted backup systems
+- Access logging
+- Database isolation
+- Regular security audits
+
+#### 5.2.2. Access Control
+- Role-based authorization
+- Two-factor authentication
+- Automatic session termination
+- IP restrictions
+- Access log maintenance
+
+## 6. Data Retention and Disposal Policy
+
+### 6.1. Retention Periods
+- Active Data: 30 days
+- Backup Data: 7 days
+- Log Records: 90 days
+- System Metrics: 180 days
+
+### 6.2. Data Disposal Methods
+
+#### 6.2.1. Deletion
+- Software deletion
+- Physical deletion
+- Cryptographic deletion
+
+#### 6.2.2. Destruction
+- Physical destruction
+- De-magnetization
+- Overwriting
+
+#### 6.2.3. Anonymization
+- Masking
+- Data derivation
+- Aggregation
+
+## 7. User Rights and Request Management
+
+### 7.1. User Rights
+1. Right to know
+2. Right to access
+3. Right to rectification
+4. Right to deletion
+5. Right to restrict processing
+6. Right to data portability
+7. Right to object
+8. Rights related to automated decision making
+
+### 7.2. Request Procedures
+
+#### 7.2.1. Request Channels
+- Email submission
+- Discord submission
+- Support system submission
+
+#### 7.2.2. Response Times
+- General Inquiries: 24 hours
+- Data Deletion Requests: 48 hours
+- Emergency Security Notifications: 4 hours
+- Technical Support: 12 hours
+
+## 8. Corporate Governance and Responsibility
+
+### 8.1. Organizational Structure
+- Data Controller
+- Technical Team
+- Security Team
+- Support Team
+
+### 8.2. Responsibilities and Obligations
+- Ensuring legal compliance
+- Implementing security measures
+- Protecting user rights
+- Maintaining transparent communication
+
+## 9. Compliance and Auditing
+
+### 9.1. Internal Audit Mechanisms
+- Regular security audits
+- System log analysis
+- Staff training
+- Process improvements
+
+### 9.2. External Audits and Certifications
+- Independent security audits
+- Penetration testing
+- Compliance certifications
+- Risk assessments
+
+## 10. Communication and Support Mechanisms
+
+### 10.1. Communication Channels
+- Discord Support Server (https://discord.gg/XJBBNx7R4k)
+- Email: [mymarius1@gmail.com]
+- Developer Contact: mymarius (Discord ID: 1030495490963411045)
+
+### 10.2. Support Processes
+1. Ticket System
+2. Priority Support Channel
+3. Bug Reporting System
+4. Feedback Mechanism
+
+
+## Final Provisions
+
+This Privacy Policy and Data Protection Guidelines shall become effective upon publication. Any modifications to the Policy will be effective from the date of update.
+
+**Effective Date**: November 14, 2024
+**Version**: 3.0
+**Update Frequency**: Every 6 months
+
+*This policy has been prepared in compliance with U.S. Federal and State privacy laws and regulations.*
+
+
+*© 2024 Shinobu Bot. All rights reserved.*
+
+*For California Residents*: Under California Civil Code Section 1798.83, California residents have the right to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
+
+*For EU Users*: If you are located in the European Union, you may have additional rights under the GDPR.
+
+*For Children Under 13*: This service is not intended for users under the age of 13. We do not knowingly collect information from children under 13.
